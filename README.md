@@ -12,7 +12,7 @@ Zesty Cocktail Bar is a PHP-based web application Project for a cocktail bar. It
 ##  Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/home.png)
 
 ### Menu Page
 ![Menu Page](screenshots/menu-page.png)
