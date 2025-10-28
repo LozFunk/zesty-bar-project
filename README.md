@@ -9,12 +9,20 @@ Zesty Cocktail Bar is a PHP-based web application Project for a cocktail bar. It
 - Responsive design with custom fonts and images
 - MySQL database integration
 
- <p align="center">
-  <img src="screenshots/home.png" width="50%">
-  <img src="screenshots/menu-page.png" width="50%">
-  <img src="screenshots/reservation-form.png" width="50%">
-  <img src="screenshots/admin-dashboard.png" width="50%">
-</p>
+##  Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Menu Page
+![Menu Page](screenshots/menu-page.png)
+
+### Reservation Form
+![Reservation Page](screenshots/reservation-form.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
 
 
 ## Project Structure
