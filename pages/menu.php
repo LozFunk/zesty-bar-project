@@ -2,7 +2,7 @@
 include 'config/db.php';
 
 $stmt = $db->query('SELECT * FROM menu ORDER BY cocktail_category');
-$menu_items = $stmt->fetchAll();
+$menu_items = $stmt->fetchAll(PDO::FETCH_ASSOC); // <- important
 
 $grouped_menu = [];
 foreach($menu_items AS $item){

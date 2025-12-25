@@ -1,5 +1,12 @@
 <?php
-include 'config/DB.php';
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+?>
+
+<?php
+
+include 'config/db.php';
 
 if($_SERVER['REQUEST_METHOD']=== "POST" && isset($_POST['submit'])){
     $f_name = trim($_POST['f_name']);
