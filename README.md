@@ -27,7 +27,7 @@ Zesty Cocktail Bar is a PHP-based web application Project for a cocktail bar. It
 
 ## Live Demo
 
-View the live site: [Zesty Bar](zesty-bar.free.nf)
+View the live site: [Zesty Bar](https://zesty-bar.free.nf)
 
 
 ## Project Structure
