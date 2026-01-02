@@ -85,9 +85,9 @@ if($_SERVER['REQUEST_METHOD']=== "POST" && isset($_POST['submit'])){
 
 
     <div class="date">
-    <input type="date" name="res_date" value="<?=date('Y-m-d')?>" class="">
+    <input type="date" name="res_date" value="<?=date('Y-m-d')?>"
 
-    <input type="time" name="res_time" class="feedback-input" class="">
+    <input type="time" name="res_time" class="feedback-input" >
 
     <input type="number" name="num_guests" class="feedback-input" placeholder="Number of guests*" min="1">
     </div>
