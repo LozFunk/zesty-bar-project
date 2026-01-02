@@ -4,7 +4,8 @@
     width: 100%;
     text-align: center;
     background-image: url(../images/pexels-busra-yurt-2148943872-31553344.png);
-    background-size: 100%;
+    background-size: cover;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     display: flex;

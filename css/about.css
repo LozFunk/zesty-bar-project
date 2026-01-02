@@ -3,7 +3,8 @@
     width: 100%;
     text-align: center;
     background-image: url(../images/nick-rickert-TUZva3dfRv4-unsplash.png);
-    background-size: 100%;
+    background-size: cover;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     display: flex;

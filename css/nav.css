@@ -90,7 +90,7 @@ nav li a{
 }
 
 
-@media screen and (max-width:37.5em){
+@media screen and (max-width:750px){
     nav ul{
     display: none;
     padding: 0;

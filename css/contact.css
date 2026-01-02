@@ -1,6 +1,8 @@
 .contact h1{
     background-image: url(../img/woman-sitting-table-with-cocktail-burning-candle-side-view.jpg);
     background-position:10% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .contact-form{
